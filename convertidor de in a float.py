@@ -1,7 +1,3 @@
-"""todo valor ingresado por un "input" es un string"""
-
-edad=int(input("introduce tu edad"))
-
 #convertidor de valores
 x=5
 
