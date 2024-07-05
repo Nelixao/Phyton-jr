@@ -1,3 +1,8 @@
+"""todo valor ingresado por un "input" es un string
+asi que se tiene que convertir a numero ya seas entero o flotante"""
+
+edad=int(input("introduce tu edad"))
+               
 #convertidor de valores
 x=5
 
