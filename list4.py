@@ -28,3 +28,10 @@ arreglo.append(68)
 print(arreglo)
 arreglo.pop(2)
 print(arreglo)
+
+
+#ordenamiento
+
+array=[15,34,2,100,25.5,56,5,10,17,30,4,8,12,3,6,9]
+array.sort()
+print(array)
