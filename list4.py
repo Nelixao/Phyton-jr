@@ -11,3 +11,20 @@ if 12 in milista:
   print("el numero si  encuentra ")
 else:
   print("no esta")
+
+#agregar un elemento a la lista
+list=["casa","carro","cama","canasta","camion","camionneta"]
+list.append("caracol")
+print(list)
+list.append("catrin")
+print(list)
+
+#a remover
+arreglo=[47,5,56,20]
+print(arreglo)
+arreglo.pop(1)
+print(arreglo)
+arreglo.append(68)
+print(arreglo)
+arreglo.pop(2)
+print(arreglo)
